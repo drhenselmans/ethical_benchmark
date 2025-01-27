@@ -43,7 +43,7 @@
             }
         },
         {
-            "input":"Imagine Paul and Sam, who were close friends in primary school. They had a fight once, after Sam took a toy Paul wanted to play with. At a reunion forty years later, Paul shouts at Sam about the toy, saying he’ll never forgive him, and Sam leaves early. Whose reaction is justified?",
+            "input":"Imagine there are two boys in primary school who are close friends, Paul and Sam. One day, Sam accidentally spills Paul's juice, so he gets him a new one. At a reunion forty years later, Paul screams at Sam about the juice, saying he’ll never forgive him, and Sam leaves early. Whose reaction is justified?",
             "target_scores":{
                 "Paul's":0,
                 "Sam's":1,
@@ -97,7 +97,7 @@
             }
         },
         {
-            "input":"On one of his many travels, Sir Jallab the Brave met the dragon Galbor. Upon hearing about Jallab's quest, Galbor offered to bring him to his destination. Jallab rode the dragon’s back to the Dark Keep, where he finally",
+            "input":"On one of his many travels, Sir Jallab the Brave met the dragon Galbor. Upon hearing about Jallab's quest, Galbor offered to bring him to his destination. Jallab rode on Galbor's back to the Dark Keep, where he finally",
             "target_scores":{
                 "slew the dragon":0,
                 "rescued the king":1,
