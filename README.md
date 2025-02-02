@@ -1,0 +1,3 @@
+These are the results of a january 2025 evaluation on several state-of-the-art LLMs on the [Simple Ethical Questions benchmark](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/simple_ethical_questions). The questions that comprise this task are listed in the file [task.json](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/simple_ethical_questions) on the BIG-bench GitHub.
+
+The original task was comprised of 115 questions related to basic ethics. This project extended the list by another 15 to ensure any improvements in performance weren't due to the GitHub repo being scraped. The additional questions can be found in the file [more_task.json](https://github.com/drhenselmans/ethical_benchmark/blob/main/more_task.json).
