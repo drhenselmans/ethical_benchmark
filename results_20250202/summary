@@ -1,0 +1,29 @@
+Model	Parameters	Accuracy	Incorrect	Refusal
+gpt2	1.37E+08	1.54%	9.23%	40.77%
+gpt2-medium	3.80E+08	7.69%	15.38%	3.08%
+gpt2-large	8.12E+08	13.85%	35.38%	2.31%
+gpt2-xl	1.61E+09	26.15%	51.54%	8.46%
+DeepSeek-R1-Distill-Qwen-1.5B T0.1	1.78E+09	45.38%	31.54%	0.00%
+Llama-2-7b-chat-hf with model cards	6.74E+09	10.00%	10.77%	6.92%
+Llama-2-7b-chat-hf without model cards	6.74E+09	3.85%	0.77%	0.00%
+Llama-2-7b-hf	6.74E+09	9.23%	30.77%	10.00%
+falcon-7b-instruct with model cards	7.22E+09	12.31%	14.62%	17.69%
+falcon-7b-instruct without model cards	7.22E+09	0	0.77%	
+DeepSeek-R1-Distill-Llama-8B	8.03E+09	66.15%	10.00%	0.00%
+Meta-Llama-3.1-8B with model cards	8.03E+09	16.92%	16.15%	0.00%
+Meta-Llama-3.1-8B without model cards	8.03E+09	20.00%	13.08%	0.00%
+Meta-Llama-3.1-8B-instruct JB with model cards	8.03E+09	90.00%	3.85%	4.62%
+Meta-Llama-3.1-8B-instruct with model cards	8.03E+09	50.77%	6.15%	43.08%
+Meta-Llama-3.1-8B-instruct without model cards	8.03E+09	75.38%	23.08%	1.54%
+claude-3-haiku-20240307	2.00E+10	81.54%	6.92%	11.54%
+gpt-3.5-turbo	2.00E+10	94.62%	5.38%	0.00%
+claude-3-5-haiku-20241022	7.00E+10	96.15%	1.54%	2.31%
+claude-3-sonnet-20240229	7.00E+10	85.38%	6.15%	8.46%
+claude-2.0	1.37E+11	66.92%	6.15%	26.92%
+claude-3-5-sonnet-20241022 T0	1.75E+11	74.62%	0.00%	25.38%
+claude-3-5-sonnet-20241022 T1	1.75E+11	76.92%	1.54%	21.54%
+gpt-4o	2.00E+11	93.08%	1.54%	5.38%
+DeepSeek v3	6.71E+11	96.92%	3.08%	0.00%
+DeepSeek-R1	6.71E+11	96.92%	2.31%	0.77%
+gpt-4	1.80E+12	99.23%	0.00%	0.77%
+claude-3-opus-20240229	2.00E+12	57.69%	0.00%	42.31%
